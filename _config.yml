@@ -1,0 +1,28 @@
+name: QuantumLeapHypnosis
+favicon: null
+layout_spectrum: 0.005223608808591962
+typography_spectrum: 0.404049095697701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9782470685895532
+  lightness: 0.5098397098481655
+  saturation: 0.3353122582193464
+  rhythmicContrast: 0.2963173855096102
+purpose: []
